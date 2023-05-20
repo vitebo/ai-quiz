@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    Ai Quiz
   </div>
 </template>
