@@ -11,5 +11,9 @@
   "devDependencies": {
     "@types/node": "^18",
     "nuxt": "^3.5.0"
+  },
+  "engines": {
+    "node": "^18.16.0",
+    "npm": "^9.5.1"
   }
 }
