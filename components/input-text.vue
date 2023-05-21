@@ -22,7 +22,7 @@ function handleInput(event: Event) {
 <template>
   <input
     type="text"
-    class="input input-bordered w-full max-w-xs"
+    class="input input-bordered w-full"
     :placeholder="placeholder"
     :value="modelValue"
     @input="handleInput"
