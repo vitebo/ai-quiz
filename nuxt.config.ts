@@ -3,5 +3,8 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     '@pinia/nuxt',
-  ]
+  ],
+  runtimeConfig: {
+    openaiApiKey: undefined, 
+  }
 })
